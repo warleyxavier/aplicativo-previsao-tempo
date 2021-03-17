@@ -1,3 +1,3 @@
 Aplicativo para previsão de tempo
 
-![](print.jpg)
+![](print.jpeg)
