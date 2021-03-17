@@ -11,7 +11,7 @@ export default function Menu() {
       <Feather
         name="menu"
         size={36}
-         color="#373737"
+        color="#373737"
       />
     </TouchableOpacity>
   );
@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
     alignItems: "center",
     justifyContent: "center",
-    left: 15,
+    left: 9,
     top: 40,
     borderTopRightRadius: 30,
     borderBottomLeftRadius: 30,
